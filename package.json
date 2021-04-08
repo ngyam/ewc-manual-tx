@@ -1,0 +1,15 @@
+{
+  "name": "ewc-manual-tx",
+  "version": "1.0.0",
+  "description": "manual tx script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Adam Nagy <ngy.am.zs@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "web3": "^1.3.5"
+  }
+}
